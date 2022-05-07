@@ -13,3 +13,5 @@ a = list(set(numeros1000).difference(set(multi10).intersection(numeros1000)))
 for i in range (0, 1000000):
     if (a[i] + int(str(a[i])[::-1])) % 2 == 1 and a[i] + int(str(a[i])[::-1]) < 1000000:
         print("número n:", a[i], "número reverso(n):",int(str(a[i])[::-1]),"soma:", a[i] + int(str(a[i])[::-1]))
+        
+#Nota: Este código leva tempo para terminar sua execução, devido ao método usado para cumprir a função dele.
