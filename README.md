@@ -15,7 +15,7 @@ ETAPA 3: Após isto, será iniciado o download automático do instalador execut�
 
 ETAPA 4: Antes de iniciar o programa e criar o projeto de testes para os arquivos, deve-se verificar se o compilador/interpretador da linguagem Python está instalado na máquina, Caso não esteja, instale diretamente do site oficial, através do link: https://www.python.org/downloads/.
 
-ETAPA 5: Após a instalação, execute o programa e crie um novo projeto. Para criar um projeto corretamente, não deve-se esquecer de selecionar o compilador de Python para o novo projeto. Por fim, importe os arquivos do diretório do Github para o projeto de testes.
+ETAPA 5: Após a instalação, execute o programa e crie um novo projeto. Para criar um projeto corretamente, não deve-se esquecer de selecionar o compilador de Python para o novo projeto. Por fim, baixe o ZIP, extraia e importe os arquivos do diretório do Github para o projeto de testes.
 
 ETAPA 6: Com os arquivos importados para o projeto, pode-se selecionar e visualizar os arquivos. Além disso, abrindo as opções de cada arquivo com o botão direito do mouse, pode-se rodar os arquivos individualmente. Caso não seja possível rodar os arquivos, verifique a instalação do compilador e da IDE, além de verificar a correta criação do projeto com Python. 
 #
